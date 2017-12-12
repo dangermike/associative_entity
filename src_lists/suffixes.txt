@@ -1,0 +1,19 @@
+and Daughters
+and Sons
+Assoc.
+Bank
+Club
+Co.
+Corp.
+DPC
+Foundation
+Fund
+Inc.
+Institute
+Limited
+LLC
+PC
+PLC
+Society
+Syndicate
+Union
